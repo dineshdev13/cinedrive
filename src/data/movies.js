@@ -1,12 +1,11 @@
 export const movies = [
     {
         id: 1,
-        title: "Inception",
-        year: 2010,
-        genre: "Sci-Fi, Action",
-        description: "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-        cast: "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
-        posterUrl: "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-        downloadLink: "#" // Replace with Drive Link
+        title: "Sarvam Maya",
+        year: 2025,
+        genre: "Horror, Comedy, Fantasy",
+        description: "A light-hearted supernatural story where a man’s life changes after an unexpected encounter with a ghost, blending humor, emotion, and mystery.",
+        posterUrl: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarvam-maya-et00473343-1766390933.jpg",
+        downloadLink: "https://drive.google.com/file/d/1ZhbCdk727qXjw350nULs1XA_ORCRRg5_/view?usp=drive_link" // Replace with Drive Link
     }
 ];
