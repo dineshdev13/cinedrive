@@ -9,5 +9,16 @@ export const movies = [
         posterUrl: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarvam-maya-et00473343-1766390933.jpg",
         downloadLink: "https://drive.google.com/file/d/1ZhbCdk727qXjw350nULs1XA_ORCRRg5_/view?usp=drive_link" // Replace with Drive Link
         
-    }
+    },
+    {
+    id: 2,
+    title: "Sirai",
+    year: 2025,
+    genre: "Crime, Drama, Thriller",
+    description: "A tense escort mission turns into a high-stakes battle of survival, exposing the system’s cracks and a man’s fight for justice.",
+    cast: "Vikram Prabhu, LK Akshay Kumar, Anishma Anilkumar, Ananda Thambirajah, Harishankar Narayanan, Remya Suresh, Siju Wilson, Munnar Ramesh, P. L. Thenappan",
+    posterUrl: "https://m.media-amazon.com/images/M/MV5BZTU0ZjE1ZTktMmQ4Ni00NThlLWI5OTUtNzMxMWEzMDYyZWY5XkEyXkFqcGc@._V1_.jpg",
+    downloadLink: "https://drive.google.com/file/d/YOUR_DRIVE_LINK/view?usp=drive_link" // Replace with Drive Link
+}
+
 ];
